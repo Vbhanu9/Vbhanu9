@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hyderabad Places</title>
+</head>
+<body>
+    <header>
+        <h1>Hyderabad Places</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Famous Places</h2>
+            <p>I am excited to share Famous Places in Hyderabad with you!</p>
+            <img src="https://images.hindustantimes.com/img/2022/09/17/550x309/charminar_1663383895286_1663383928821_1663383928821.jpg">alt="Hyderabad Places Picture">
+        </section>
+        <section>
+            <h2>Famous Places </h2>
+            <ul>
+                <li>Charminar</li>
+                <li>Golconda fort</li>
+                <li>Birla Mandir</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+    </footer>
+</body>
+</html>
